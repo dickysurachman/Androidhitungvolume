@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Hitung Volume</string>
+    <string name="textview"></string>
+    <string name="panjang">Panjang</string>
+    <string name="tinggi">Tinggi</string>
+    <string name="lebar">Lebar</string>
+    <string name="hasil">hasil</string>
+    <string name="hitung">hitung</string>
+
+</resources>
